@@ -28,7 +28,7 @@ For Google Chrome DevTools:
 3.  Access the Console in Chrome DevTools:
 
     *   Select the **Chrome menu** at the top-right of your browser window, then
-        select **Tools** > **Devloper Tools**.
+        select **Tools** > **Developer Tools**.
 
     *   Select **Console** from the tab strip in the window.
 
