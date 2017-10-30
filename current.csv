@@ -5,6 +5,7 @@ agd.gov.jm,Administrator General’s Department
 assp.gov.jm,Agricultural Support Services Project
 agroinvest.gov.jm,Agro Investment Corporation Jamaica
 jadsc.gov.jm,Anti-dumping and Subsidies Commission
+agc.gov.jm,Attorney General’s Chambers
 auditorgeneral.gov.jm,Auditor General’s Department
 bglc.gov.jm,"Betting, Gaming and Lotteries Commission"
 cabinet.gov.jm,Cabinet Office of Jamaica
@@ -20,6 +21,7 @@ courtofappeal.gov.jm,Court of Appeal
 dcfs.gov.jm,Department of Co-operatives and Friendly Societies
 dcs.gov.jm,Department of Correctional Services
 ecc.gov.jm,Early Childhood Commission
+esms.gov.jm,Education Management Information System
 fid.gov.jm,Financial Investigations Division
 fla.gov.jm,Firearm Licensing Authority
 fisheries.gov.jm,Fisheries Division
@@ -44,6 +46,8 @@ jfb.gov.jm,Jamaica Fire Brigade
 japarliament.gov.jm,Jamaica Houses of Parliament
 jis.gov.jm,Jamaica Information Service
 jipo.gov.jm,Jamaica Intellectual Property Office
+jls.gov.jm,Jamaica Library Service
+jmb.gov.jm,Jamaica Mortgage Bank
 janaac.gov.jm,Jamaica National Agency for Accreditation
 data.gov.jm,Jamaica Open Data Portal
 jamaicapost.gov.jm,Jamaica Postal Corporation
@@ -59,18 +63,24 @@ moca.gov.jm,Major Organised Crime and Anti-Corruption Agency
 manchestermc.gov.jm,Manchester Municipal Corporation
 metservice.gov.jm,Meteorological Service of Jamaica
 mgd.gov.jm,Mines and Geology Division
+moatrade.gov.jm,Ministry of Agriculture & Lands Trade System
 mcges.gov.jm,"Ministry of Culture, Gender, Entertainment and Sport"
 mwh.gov.jm,Ministry of Economic Growth and Job Creation
+bizsupport.gov.jm,Ministry of Education
+examresults.gov.jm,Ministry of Education
 moe.gov.jm,"Ministry of Education, Youth & Information"
 moey.gov.jm,"Ministry of Education, Youth & Information"
 mof.gov.jm,Ministry of Finance and the Public Service
 mfaft.gov.jm,Ministry of Foreign Affairs and Foreign Trade
 moh.gov.jm,Ministry of Health
+www.mohpermit.gov.jm,Ministry of Health
 moa.gov.jm,"Ministry of Industry, Commerce, Agriculture and Fisheries"
 miic.gov.jm,"Ministry of Industry, Investment and Commerce"
 moj.gov.jm,Ministry of Justice
 mlss.gov.jm,Ministry of Labour & Social Security
 localgovjamaica.gov.jm,Ministry of Local Government & Community Development
+mlgcd.gov.jm,Ministry of Local Government & Community Development
+mlge.gov.jm,Ministry of Local Government & Community Development
 mns.gov.jm,Ministry of National Security
 mstem.gov.jm,"Ministry of Science, Energy & Technology"
 mot.gov.jm,Ministry of Tourism
@@ -81,11 +91,13 @@ ncel.gov.jm,National College for Educational Leadership
 ncst.gov.jm,National Commisssion on Science and Technology
 ncc.gov.jm,National Contracts Commission
 moeyc.gov.jm,National Council on Education
+nesol.gov.jm,National Energy Solutions Limited
 nepa.gov.jm,National Environment and Planning Agency
 nhf.gov.jm,National Health Fund
 nht.gov.jm,National Housing Trust
 nids.gov.jm,National Identification System
 nla.gov.jm,National Land Agency
+elandjamaica.gov.jm,National Land Agency
 nlj.gov.jm,National Library of Jamaica
 nsippregistry.gov.jm,National Security Interest in Personal Property Registry of Jamaica
 nswma.gov.jm,National Solid Waste Management Authority
@@ -95,12 +107,14 @@ nerha.gov.jm,North East Regional Health Authority
 ocr.gov.jm,Office of the Children’s Registry
 ocg.gov.jm,Office of the Contractor General
 dpp.gov.jm,Office of the Director of Public Prosecutions
+nirafacts.gov.jm,Office of the Prime Minister
 opm.gov.jm,Office of the Prime Minister of Jamaica
 opmtv.gov.jm,Office of the Prime Minister of Jamaica TV
 opd.gov.jm,Office of the Public Defender of Jamaica
 osc.gov.jm,Offices of the Services Commissions
 parishcourt.gov.jm,Parish Courts of Jamaica
 pica.gov.jm,"Passport, Immigration & Citizenship Agency"
+www.pcapermit.gov.jm,Pesticide Control Authority
 pioj.gov.jm,Planning Institute of Jamaica
 portlandmc.gov.jm,Portland Municipal Corporation
 portmoremc.gov.jm,Portmore Municipal Council
@@ -109,6 +123,7 @@ reb.gov.jm,Real Estate Board of Jamaica
 rgd.gov.jm,Registrar General’s Department
 skillsreturn.gov.jm,Returning Residents Facilitation Unit
 rada.gov.jm,Rural Agricultural Development Authority
+rep.gov.jm,Rural Electrification Programme
 src.gov.jm,Scientific Research Council
 scjholdings.gov.jm,SCJ Holdings Limited
 sdc.gov.jm,Social Development Commission
@@ -126,7 +141,9 @@ supremecourt.gov.jm,Supreme Court of Jamaica
 jamaicatax.gov.jm,Tax Administration Jamaica
 jamaicatax-online.gov.jm,Tax Administration Jamaica
 indecom.gov.jm,The Independent Commission of Investigations
+moepmas.gov.jm,The Performance Management Appraisal System
 tollauthority.gov.jm,Toll Authority of Jamaica
+tourism.gov.jm,Tourism Product Development Company Ltd.
 tradeboard.gov.jm,Trade Board Ltd.
 trelawnymc.gov.jm,Trelawny Municipal Corporation
 usf.gov.jm,Universal Service Fund
