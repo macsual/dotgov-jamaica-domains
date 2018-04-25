@@ -8,7 +8,9 @@ jadsc.gov.jm,Anti-dumping and Subsidies Commission
 agc.gov.jm,Attorney General’s Chambers
 auditorgeneral.gov.jm,Auditor General’s Department
 bglc.gov.jm,"Betting, Gaming and Lotteries Commission"
+boardofexaminers.gov.jm,Board of Examiners
 cabinet.gov.jm,Cabinet Office of Jamaica
+redtrac.gov.jm,Caribbean Regional Drug Training Centre
 cgc.gov.jm,Casino Gaming Commission
 cito.gov.jm,Central Information Technology Office
 cda.gov.jm,Child Development Agency
@@ -17,6 +19,7 @@ csjp.gov.jm,Citizen Security & Justice Programme
 clarendonmc.gov.jm,Clarendon Municipal Corporation
 csc.gov.jm,Commision of Strata Corporations
 cpcpd.gov.jm,Commission for the Prevention of Corruption
+cac.gov.jm,Consumer Affairs Commission
 consumeraffairsjamaica.gov.jm,Consumer Affairs Commission
 cms.gov.jm,Court Management Services
 courtofappeal.gov.jm,Court of Appeal
@@ -34,7 +37,7 @@ e-jamaica.gov.jm,Government of Jamaica
 gov.jm,Government of Jamaica
 jamaica.gov.jm,Government of Jamaica
 gojep.gov.jm,Government of Jamaica Electronic Procurement
-procurement.gov.jm,Goverment Of Jamaica Procurement Notice Board
+procurement.gov.jm,Government Of Jamaica Procurement Notice Board
 hanovermc.gov.jm,Hanover Municipal Corporation
 hajl.gov.jm,Housing Agency of Jamaica Limited
 jamaica55.gov.jm,Jamaica 55
@@ -54,6 +57,7 @@ jipo.gov.jm,Jamaica Intellectual Property Office
 jls.gov.jm,Jamaica Library Service
 jmb.gov.jm,Jamaica Mortgage Bank
 janaac.gov.jm,Jamaica National Agency for Accreditation
+jncunesco.gov.jm,Jamaica National Commission for UNESCO
 data.gov.jm,Jamaica Open Data Portal
 jpf.gov.jm,Jamaica Police Federation
 jamaicapost.gov.jm,Jamaica Postal Corporation
@@ -64,8 +68,10 @@ jtec.gov.jm,Jamaica Tertiary Education Commision
 jfll.gov.jm,Jamaican Foundation for Lifelong Learning
 jamstats.gov.jm,JamStats Secretariat
 kingshouse.gov.jm,King’s House Jamaica
+ksac.gov.jm,Kingston & St. Andrew Corporation
 ksamc.gov.jm,Kingston & St. Andrew Corporation
 lmis.gov.jm,Labour Market Information System
+localauthorities.gov.jm,Local Authorities of Jamaica
 moca.gov.jm,Major Organised Crime and Anti-Corruption Agency
 manchestermc.gov.jm,Manchester Municipal Corporation
 metservice.gov.jm,Meteorological Service of Jamaica
@@ -93,6 +99,7 @@ mlgcd.gov.jm,Ministry of Local Government & Community Development
 mlge.gov.jm,Ministry of Local Government & Community Development
 jamaicaeye.gov.jm,Ministry of National Security
 mns.gov.jm,Ministry of National Security
+mset.gov.jm,"Ministry of Science, Energy & Technology"
 mstem.gov.jm,"Ministry of Science, Energy & Technology"
 mot.gov.jm,Ministry of Tourism
 culture.gov.jm,"Ministry of Tourism, Entertainment and Culture"
@@ -103,7 +110,7 @@ mtwh.gov.jm,Ministry of Transport and Mining
 myc.gov.jm,Ministry of Youth and Culture
 nbts.gov.jm,National Blood Transfusion Service
 ncel.gov.jm,National College for Educational Leadership
-ncst.gov.jm,National Commisssion on Science and Technology
+ncst.gov.jm,National Commission on Science and Technology
 ncc.gov.jm,National Contracts Commission
 moeyc.gov.jm,National Council on Education
 nesol.gov.jm,National Energy Solutions Limited
@@ -126,16 +133,17 @@ nirafacts.gov.jm,Office of the Prime Minister
 opm.gov.jm,Office of the Prime Minister of Jamaica
 opmtv.gov.jm,Office of the Prime Minister of Jamaica TV
 opd.gov.jm,Office of the Public Defender of Jamaica
+otb.gov.jm,Office of the Trustee in Bankruptcy
 osc.gov.jm,Offices of the Services Commissions
 parishcourt.gov.jm,Parish Courts of Jamaica
 pica.gov.jm,"Passport, Immigration & Citizenship Agency"
 pcapermit.gov.jm,Pesticide Control Authority
 pioj.gov.jm,Planning Institute of Jamaica
 pcoa.gov.jm,Police Civilian Oversight Authority
-pab.gov.jm,Public Accountancy Board
 portlandmc.gov.jm,Portland Municipal Corporation
 portmoremc.gov.jm,Portmore Municipal Council
 psra.gov.jm,Private Security Regulation Authority
+pab.gov.jm,Public Accountancy Board
 pepas.gov.jm,Public Employees Pension Administration System
 reb.gov.jm,Real Estate Board of Jamaica
 rgd.gov.jm,Registrar General’s Department
